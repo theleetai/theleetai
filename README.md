@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @theleetai
+- behind this account there is a young developper interested in AI Stuff
+- I'll be sharing my AI projects here
+- Will Open some open source projects soon!!
